@@ -20,7 +20,7 @@ export default function About() {
           <Reveal>
             <div className="aspect-[3/4] overflow-hidden bg-cream w-full max-w-lg">
               <img
-                src="https://picsum.photos/seed/ask-portrait-02/900/1200"
+                src="/images/studio/artist-studio.jpg"
                 alt="Ask in the studio"
                 className="w-full h-full object-cover"
                 loading="lazy"
@@ -147,15 +147,15 @@ export default function About() {
         </Reveal>
         <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
           {[
-            'https://picsum.photos/seed/studio-01/600/750',
-            'https://picsum.photos/seed/studio-02/600/450',
-            'https://picsum.photos/seed/studio-03/600/750',
-          ].map((src, i) => (
+            { src: '/images/studio/artist-studio.jpg', alt: 'Ask with painting in studio' },
+            { src: '/images/paintings/green-landscape.jpg', alt: 'Through the Gate — studio view' },
+            { src: '/images/paintings/three-portraits.jpg', alt: 'The Three — work in progress' },
+          ].map(({ src, alt }, i) => (
             <Reveal key={src} delay={i * 100}>
               <div className="overflow-hidden aspect-[4/5] md:aspect-auto md:h-72 bg-cream">
                 <img
                   src={src}
-                  alt={`Studio view ${i + 1}`}
+                  alt={alt}
                   className="w-full h-full object-cover transition-transform duration-700 hover:scale-[1.03]"
                   loading="lazy"
                 />
