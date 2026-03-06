@@ -8,7 +8,7 @@ export const paintings = [
     price: 3500,
     year: 2024,
     image: '/images/paintings/polar-opposition.jpg',
-    featured: true,
+    featured: false,
     description:
       'A serene polar landscape — mountains reflected in still water beneath an overcast sky. Exhibited at Galleri Ask Hansen.',
   },
@@ -34,7 +34,7 @@ export const paintings = [
     price: 3800,
     year: 2024,
     image: '/images/paintings/green-landscape.jpg',
-    featured: true,
+    featured: false,
     description:
       'A lush pastoral scene framed by hand-painted stone walls. Animals graze beneath a glowing tree in dappled summer light.',
   },
@@ -59,7 +59,7 @@ export const paintings = [
     price: 400,
     year: 2026,
     image: '/images/paintings/scion.jpg',
-    featured: false,
+    featured: true,
     description: 'A deep blue field, built up in thick, layered strokes. Still and charged at once.',
   },
   {
@@ -83,7 +83,7 @@ export const paintings = [
     price: 400,
     year: 2026,
     image: '/images/paintings/amerenta.jpg',
-    featured: false,
+    featured: true,
     description: 'Red on red — textured, almost volcanic. The surface catches light and holds it.',
   },
   {
