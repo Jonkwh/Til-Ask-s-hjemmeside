@@ -108,7 +108,7 @@ export default function Cart({ isOpen, onClose, items, onRemove }) {
               All works are unique originals. Contact to arrange payment, framing, and shipping.
             </p>
             <a
-              href="mailto:ask@example.com"
+              href="mailto:askx0169@gmail.com"
               className="block text-center font-body text-[11px] tracking-[0.22em] uppercase text-canvas bg-ink py-4 hover:bg-sepia transition-colors duration-300"
             >
               Inquire to Purchase →

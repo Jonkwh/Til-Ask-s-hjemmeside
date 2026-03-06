@@ -174,7 +174,7 @@ export default function Shop({ addToCart }) {
               collection.
             </p>
             <a
-              href="mailto:ask@example.com"
+              href="mailto:askx0169@gmail.com"
               className="font-body text-[11px] tracking-[0.22em] uppercase text-sepia border-b border-sepia/60 pb-px hover:text-ink hover:border-ink transition-colors duration-300"
             >
               Get in touch →

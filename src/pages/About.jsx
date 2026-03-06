@@ -77,7 +77,7 @@ export default function About() {
             <Reveal delay={400}>
               <div className="pt-6 border-t border-dust/30 space-y-4">
                 <a
-                  href="https://instagram.com"
+                  href="https://www.instagram.com/askhansen_/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="flex items-center gap-3 font-body text-[11px] tracking-[0.22em] uppercase text-ink hover:text-sepia transition-colors duration-300 group w-fit"
@@ -88,10 +88,10 @@ export default function About() {
                   </span>
                 </a>
                 <a
-                  href="mailto:ask@example.com"
+                  href="mailto:askx0169@gmail.com"
                   className="flex items-center gap-3 font-body text-[11px] tracking-[0.22em] uppercase text-ink hover:text-sepia transition-colors duration-300 group w-fit"
                 >
-                  <span>ask@example.com</span>
+                  <span>askx0169@gmail.com</span>
                   <span className="transition-transform duration-300 group-hover:translate-x-1">
                     →
                   </span>
@@ -188,7 +188,7 @@ export default function About() {
               Browse shop →
             </Link>
             <a
-              href="mailto:ask@example.com"
+              href="mailto:askx0169@gmail.com"
               className="font-body text-[11px] tracking-[0.22em] uppercase text-canvas/50 border-b border-canvas/20 pb-px hover:text-canvas hover:border-canvas transition-colors duration-300"
             >
               Send an email →

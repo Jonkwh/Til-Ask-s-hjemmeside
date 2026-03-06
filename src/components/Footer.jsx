@@ -31,7 +31,7 @@ export default function Footer() {
             About
           </Link>
           <a
-            href="https://instagram.com"
+            href="https://www.instagram.com/askhansen_/"
             target="_blank"
             rel="noopener noreferrer"
             className="font-body text-[10px] tracking-[0.2em] uppercase text-ink hover:text-sepia transition-colors duration-300"
@@ -39,7 +39,7 @@ export default function Footer() {
             Instagram ↗
           </a>
           <a
-            href="mailto:ask@example.com"
+            href="mailto:askx0169@gmail.com"
             className="font-body text-[10px] tracking-[0.2em] uppercase text-ink hover:text-sepia transition-colors duration-300"
           >
             Contact →

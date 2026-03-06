@@ -60,7 +60,7 @@ export default function Nav({ cartCount, onCartOpen }) {
           {/* Right actions */}
           <div className="flex items-center gap-6">
             <a
-              href="https://instagram.com"
+              href="https://www.instagram.com/askhansen_/"
               target="_blank"
               rel="noopener noreferrer"
               className="hidden md:inline font-body text-[11px] tracking-[0.22em] uppercase text-ink hover:text-sepia transition-colors duration-300"
@@ -130,7 +130,7 @@ export default function Nav({ cartCount, onCartOpen }) {
           About
         </NavLink>
         <a
-          href="https://instagram.com"
+          href="https://www.instagram.com/askhansen_/"
           target="_blank"
           rel="noopener noreferrer"
           className="font-display text-3xl text-sepia hover:text-ink transition-colors mt-4"

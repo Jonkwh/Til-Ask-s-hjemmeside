@@ -156,10 +156,10 @@ export default function Home({ addToCart }) {
               </span>
               <p className="font-display text-xl text-ink italic">Open — enquire by email</p>
               <a
-                href="mailto:ask@example.com"
+                href="mailto:askx0169@gmail.com"
                 className="font-body text-[11px] tracking-[0.22em] uppercase text-ink border-b border-ink/60 pb-px hover:text-sepia hover:border-sepia transition-colors duration-300 w-fit mt-1"
               >
-                ask@example.com →
+                askx0169@gmail.com →
               </a>
             </div>
           </Reveal>
